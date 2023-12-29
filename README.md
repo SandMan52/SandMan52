@@ -7,7 +7,7 @@
 </div>
   <img src="https://komarev.com/ghpvc/?username=sandman52&style=flat-square&color=blue" alt=""/>
   <h1>
-  Salutations
+  Greeting & Salutations
   <img src="https://media.giphy.com/media/7ujwKb3KPhSNy/giphy.gif" width="200px"/>
 </h1>
 </div>
