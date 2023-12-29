@@ -6,9 +6,10 @@
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=sandman52&style=flat-square&color=blue" alt=""/>
-  <h1>
+  <div<h1>
   Greetings
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </div>
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" width="600" height="300"/>
