@@ -9,7 +9,7 @@
   <h1>
   Greetings, I'm Devin!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/>
-    IT Enthusiast | Cyber Security Practitioner
+    IT Enthusiast | Cyber Security Practitioner | Junior Python Developer
 </h1>
   <div align="center">
   <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" width="600" height="300"/>
