@@ -17,7 +17,7 @@
 </div>
   <h2>👨‍💻 Cyber Security Incidents & Response Experience:</h2>
 <b>Social Engineering</b>
-  - [Incident & Response](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security Breach](https://github.com/joshmadakor1/Algorithms-Practice)
 </div>
 
 <!---
