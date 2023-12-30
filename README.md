@@ -15,6 +15,10 @@
   <div align="center">
   <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" width="600" height="300"/>
 </div>
+  <h2>👨‍💻 Cyber Security Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 </div>
 
 <!---
