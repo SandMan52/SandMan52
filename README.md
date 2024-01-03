@@ -16,9 +16,9 @@
 </div>
   <h2>👨‍💻 Cyber Security Incident & Response Experience:</h2>
 <b>Social Engineering</b>
-  - [Impersonation Attack](https://github.com/SandMan52/Social-Engineering-Breech)
+  <b> - [Impersonation Attack](https://github.com/SandMan52/Social-Engineering-Breech)</b>
 <b>Ransomware</b>
-  - [Phobos](https://github.com/SandMan52/Ransomware)
+  <b> - [Phobos](https://github.com/SandMan52/Ransomware)</b>
 </div>
 
 <!---
