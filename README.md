@@ -15,10 +15,14 @@
   <img src="https://media.giphy.com/media/ELham0Mveox9e/giphy.gif" width="600" height="300"/>
 </div>
   <h2>👨‍💻 Cyber Security Incident & Response Experience:</h2>
+  <div>
 <b>Social Engineering</b>
   <b> - [Impersonation Attack](https://github.com/SandMan52/Social-Engineering-Breech)</b>
+  </div>
+<div>
 <b>Ransomware</b>
   <b> - [Phobos](https://github.com/SandMan52/Ransomware)</b>
+</div>
 </div>
 
 <!---
